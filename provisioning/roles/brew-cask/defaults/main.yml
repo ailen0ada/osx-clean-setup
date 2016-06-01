@@ -1,0 +1,10 @@
+homebrew_cask_packages:
+  - alfred
+  - bettertouchtool
+  - google-chrome
+  - intellij-idea
+  - slack
+  - sourcetree
+  - vagrant
+  - virtualbox
+  - visual-studio-code
